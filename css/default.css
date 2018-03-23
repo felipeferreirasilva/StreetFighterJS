@@ -1,0 +1,25 @@
+.stage{
+    background-image: url("../images/stage.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: black;
+}
+
+.ryu{
+    width: 40%;
+    margin: 4%;
+}
+
+.ken{
+    width: 40%;
+    margin: 4%
+}
+
+.fight{
+    position: fixed;
+    width: 20%;
+    left: 0;
+    margin: 10% 0 0 39%;
+}
+
