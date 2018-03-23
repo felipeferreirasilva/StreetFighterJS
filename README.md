@@ -6,4 +6,5 @@ Street Fighter movements made with jQuery (DEMO)
 StreetFighterJS (JavaScript)
 
 Author: Felipe Silva
+
 Email: felipeferreirasilva@gmail.com
